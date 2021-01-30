@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 // import { Route } from 'react-router-dom'
+// import ResumePDFViewer from "./pdf/ResumePDFViewer.js"
+// import resumePDF from "/Users/salimaharun/Desktop/SEIFX818/portfolio-salima/src/salima-harun-resume.pdf"
 
 const Resume = () => {
 
@@ -12,5 +14,3 @@ const Resume = () => {
 }
 
 export default Resume
-
-// probably need to do array of objects so it can be easily added

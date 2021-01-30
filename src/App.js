@@ -6,6 +6,7 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Resume from "./components/Resume";
 import Projects from "./components/Projects"
+// import resumePDF from "/Users/salimaharun/Desktop/SEIFX818/portfolio-salima/src/salima-harun-resume.pdf"
 
 // Common imports
 import Layout from "./components/common/Layout"

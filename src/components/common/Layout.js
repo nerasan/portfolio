@@ -12,7 +12,7 @@ const Layout = (props) => {
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li><Link to="/about" className="nav-text black-text">about</Link></li>
                     <li><Link to="/projects" className="nav-text black-text">projects</Link></li>
-                    <li><Link to="/resume" className="nav-text black-text">resume</Link></li>
+                    {/* <li><Link to="/resume" className="nav-text black-text">resume</Link></li> */}
                 </ul>
                 </div>
             </nav>
