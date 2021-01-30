@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e8eaf6;
+}
+
+nav ul a:hover {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.nav-main-text {
+  font-weight: bolder;
+  font-size: 24px;
+}
+
+.nav-text {
+  font-style: italic;
+}
+
+h2, h3, h4, h5 {
+  font-family: 'Shrikhand', cursive;
+  letter-spacing: 4px;
+}
+
+a {
+  color: #000;
+}
+
+.about-text {
+  margin: 0 0 20px 0;
+}
+
+.footer-icon {
+  width: 25px;
+  margin: 0 2px;
+}
