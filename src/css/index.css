@@ -37,8 +37,21 @@ a {
   color: #000;
 }
 
+.about-link {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.label-bold {
+  font-weight: bold;
+}
+
 .about-text {
   margin: 0 0 20px 0;
+}
+
+.card-paragraph {
+  margin: 0 0 5px 0;
 }
 
 .footer-icon {

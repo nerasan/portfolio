@@ -27,7 +27,3 @@ const App = () => {
   }
 
 export default App;
-
-// components folder -- your pages
-// common folder -- everything that can be reused in your website and can be used in other pages
-// example: layout (header, nav, footer, etc.) -- things that do not need to change

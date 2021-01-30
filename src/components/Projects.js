@@ -1,8 +1,4 @@
-import React, { useEffect, useState } from 'react'
-import axios from 'axios'
-
-// components
-import Spinner from './common/Spinner'
+import React from 'react'
 
 const Projects = () => {
    
@@ -21,12 +17,12 @@ const Projects = () => {
                             </div>
                             <div class="card-content">
                                 <h4>marshal crossing</h4>
-                                <p>
-                                    A simple text-based game introducing you to the interaction aspect of Animal Crossing. Play as the island representative and help your newest villager, Marshal, get accustomed to island life!
-                                </p>
-                                <p>
-                                    Languages used: HTML, CSS, JavaScript
-                                </p>
+                                <div class="card-paragraph">
+                                    A text-based browser game introducing you to the interaction aspect of Animal Crossing. Play as the island representative and help your newest villager, Marshal, get accustomed to island life!
+                                </div>
+                                <div class="card-paragraph">
+                                    <span class="label-bold">Languages used:</span> HTML, CSS, JavaScript
+                                </div>
                             </div>
                             <div class="card-action">
                                 <a href="https://nerasan.github.io/marshal-crossing/">demo</a>
@@ -47,12 +43,12 @@ const Projects = () => {
                             </div>
                             <div class="card-content">
                                 <h4>smatch</h4>
-                                <p>
+                                <div class="card-paragraph">
                                     For all Super Smash Bros Ultimate players to track their matches, view match history, and analyze their performance based on statistics.
-                                </p>
-                                <p>
-                                    Languages used: HTML, CSS, JavaScript, Node.js, Express, Sequelize, Chart.js
-                                </p>
+                                </div>
+                                <div class="card-paragraph">
+                                    <span class="label-bold">Languages used:</span> HTML, CSS, JavaScript, Express, Node.js, Sequelize, Chart.js
+                                </div>
                             </div>
                             <div class="card-action">
                                 <a href="https://nerasan.github.io/marshal-crossing/">demo</a>
@@ -97,12 +93,12 @@ const Projects = () => {
                                 </div>
                                 <div class="card-content">
                                     <h4>haikyuu reddit slideshow</h4>
-                                    <p>
+                                    <div class="card-paragraph">
                                         Search your favorite Haikyuu player. Find interesting posts from Reddit.
-                                    </p>
-                                    <p>
-                                        Languages used: HTML, CSS, JavaScript
-                                    </p>
+                                    </div>
+                                    <div class="card-paragraph">
+                                        <span class="label-bold">Languages used:</span> HTML, CSS, JavaScript
+                                    </div>
                                 </div>
                                 <div class="card-action">
                                     <a href="#">demo</a>
