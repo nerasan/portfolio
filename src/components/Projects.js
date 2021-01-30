@@ -93,7 +93,7 @@ const Projects = () => {
                         <div class="col s12 m4 l8">
                             <div class="card z-depth-0">
                                 <div class="card-image">
-                                    <img src="http://127.0.0.1:5500/images/karasuno-team.png" />
+                                    <img src="https://i.imgur.com/XhMhZKi.png" />
                                 </div>
                                 <div class="card-content">
                                     <h4>haikyuu reddit slideshow</h4>
