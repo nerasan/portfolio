@@ -51,7 +51,7 @@ const Projects = () => {
                                 </div>
                             </div>
                             <div class="card-action">
-                                <a href="https://nerasan.github.io/marshal-crossing/">demo</a>
+                                <a href="https://smatch-gg.herokuapp.com/">demo</a>
                                 <a href="https://github.com/nerasan/smatch">code</a>
                             </div>
                         </div>
