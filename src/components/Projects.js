@@ -92,7 +92,7 @@ const Projects = () => {
                                     <img src="https://i.imgur.com/XhMhZKi.png" />
                                 </div>
                                 <div class="card-content">
-                                    <h4>haikyuu reddit slideshow</h4>
+                                    <h4>haikyuu image search</h4>
                                     <div class="card-paragraph">
                                         Search your favorite Haikyuu player. Find interesting posts from Reddit.
                                     </div>
@@ -101,7 +101,7 @@ const Projects = () => {
                                     </div>
                                 </div>
                                 <div class="card-action">
-                                    <a href="#">demo</a>
+                                    <a href="https://nerasan.github.io/haikyuu-image-search/">demo</a>
                                     <a href="https://github.com/nerasan/haikyuu-image-search">code</a>
                                 </div>
                             </div>

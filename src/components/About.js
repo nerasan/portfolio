@@ -19,7 +19,7 @@ const About = () => {
 
                 </div>
                 <div class="col l6 m6 s12">
-                    <img src="https://media-exp1.licdn.com/dms/image/C4E03AQG9aF9LKUdolg/profile-displayphoto-shrink_800_800/0/1603992612316?e=1617235200&v=beta&t=ntKu5tArGCuJPAhyPL63o1T0gkdYusZQIyfAZd25lgU" class="portfolio-photo"/>
+                    <img src="https://i.imgur.com/ahHXw6H.png" class="aboutme-illustration"/>
                 </div>
             </div>
 
