@@ -3,23 +3,27 @@ import React from 'react'
 const About = () => {
     return (
         <div>
-        <div class="container">
-            <div class="row">
-                <div class="col l6 m6 s12">
-                    <h3>
+        <div className="container">
+            <div className="row">
+                <div className="col l6 m6 s12">
+                    <h4>
                         hi there!
-                    </h3>
-                    <div class="about-text">
-                        I am a software developer with an innate desire to learn and discover new ways to solve problems. Through my experience as a consultant, I honed my skills to focus on key details and deliver high quality products. My client-facing role has allowed me to understand the bigger picture and ask the right questions to achieve efficient solutions.
+                    </h4>
+                    <div className="about-text">
+                        When I am not touching code, you can find me playing my favorite video games or exploring new coffee shops. These passions can be seen in some of my projects such as Marshal Crossing and Smatch.
+                    </div>
+
+                    <div className="about-text">
+                        As someone who has been in front of a screen for most of my life, I understand the desire to have websites and apps run smoothly. This leads me to focus on having clean and concise code since this affects a user's overall experience. I strive to continuously improve my knowledge to achieve this standard on my projects.
                     </div>
                     
-                    <div class="about-text">
-                        When I am not touching code, you can find me playing my favorite video games or exploring new coffee shops. Whether you want to chat about your latest gaming adventures or go straight to code talk, <a href="mailto:salima.harun@gmail.com" class="about-link">send me a message</a> and <a href="https://www.linkedin.com/in/salimaharun/" class="about-link" target="_blank">let's get connected</a>!
+                    <div className="about-text">
+                        Whether you want to chat about your latest gaming adventures or go straight to code talk, <a href="mailto:salima.harun@gmail.com" className="about-link">send me a message</a> and <a href="https://www.linkedin.com/in/salimaharun/" className="about-link" target="_blank" rel="noreferrer noopener">let's get connected</a>!
                     </div>
 
                 </div>
-                <div class="col l6 m6 s12">
-                    <img src="https://i.imgur.com/ahHXw6H.png" class="aboutme-illustration"/>
+                <div className="col l6 m6 s12">
+                    <img src="https://i.imgur.com/wtHHsNq.png" className="aboutme-illustration" alt="aboutme" />
                 </div>
             </div>
 
