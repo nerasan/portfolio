@@ -14,7 +14,7 @@ const About = () => {
                     </div>
                     
                     <div class="about-text">
-                        When I am not touching code, you can find me playing my favorite video games or exploring new coffee shops. Whether you want to chat about your latest gaming adventures or go straight to code talk, <a href="mailto:salima.harun@gmail.com" class="about-link">send me a message</a> and <a href="https://www.linkedin.com/in/salimaharun/" class="about-link">let's get connected</a>!
+                        When I am not touching code, you can find me playing my favorite video games or exploring new coffee shops. Whether you want to chat about your latest gaming adventures or go straight to code talk, <a href="mailto:salima.harun@gmail.com" class="about-link">send me a message</a> and <a href="https://www.linkedin.com/in/salimaharun/" class="about-link" target="_blank">let's get connected</a>!
                     </div>
 
                 </div>

@@ -18,7 +18,6 @@ const Home = () => {
                         <p>
                             software developer
                         </p>
-  
                         <p>
                             video gamer
                         </p>

@@ -25,8 +25,8 @@ const Projects = () => {
                                 </div>
                             </div>
                             <div class="card-action">
-                                <a href="https://nerasan.github.io/marshal-crossing/">demo</a>
-                                <a href="https://github.com/nerasan/marshal-crossing">code</a>
+                                <a href="https://nerasan.github.io/marshal-crossing/" target="_blank">demo</a>
+                                <a href="https://github.com/nerasan/marshal-crossing" target="_blank">code</a>
                             </div>
                         </div>
                     </div>
@@ -51,8 +51,8 @@ const Projects = () => {
                                 </div>
                             </div>
                             <div class="card-action">
-                                <a href="https://smatch-gg.herokuapp.com/">demo</a>
-                                <a href="https://github.com/nerasan/smatch">code</a>
+                                <a href="https://smatch-gg.herokuapp.com/" target="_blank">demo</a>
+                                <a href="https://github.com/nerasan/smatch" target="_blank">code</a>
                             </div>
                         </div>
                     </div>
@@ -101,8 +101,8 @@ const Projects = () => {
                                     </div>
                                 </div>
                                 <div class="card-action">
-                                    <a href="https://nerasan.github.io/haikyuu-image-search/">demo</a>
-                                    <a href="https://github.com/nerasan/haikyuu-image-search">code</a>
+                                    <a href="https://nerasan.github.io/haikyuu-image-search/" target="_blank">demo</a>
+                                    <a href="https://github.com/nerasan/haikyuu-image-search" target="_blank">code</a>
                                 </div>
                             </div>
                         </div>
