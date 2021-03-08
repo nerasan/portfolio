@@ -21,6 +21,8 @@ const About = () => {
                         Whether you want to chat about your latest gaming adventures or go straight to code talk, <a href="mailto:salima.harun@gmail.com" className="about-link">send me a message</a> and <a href="https://www.linkedin.com/in/salimaharun/" className="about-link" target="_blank" rel="noreferrer noopener">let's get connected</a>!
                     </div>
 
+                    <a href="https://drive.google.com/file/d/1Lxcga0Z1TeB7ki1LYpp9V023PjHu1ymT/view" className="waves-effect waves-light blue accent-2 btn-small" target="_blank" rel="noreferrer noopener">resume</a>
+
                 </div>
                 <div className="col l6 m6 s12">
                     <img src="https://i.imgur.com/wtHHsNq.png" className="aboutme-illustration" alt="aboutme" />

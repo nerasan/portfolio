@@ -23,13 +23,8 @@ const Home = () => {
                     </p>
                     <p>
                     <Link to="/about" className="nav-text black-text">
-                        <a className="waves-effect waves-light blue accent-2 btn-small">let's collaborate!</a>
-                    </Link>
-                    </p>
-                    <p>
-                        <Link to="/projects" className="nav-text black-text">
-                            <a className="waves-effect waves-light blue accent-2 btn-small">passion projects</a>
-                        </Link>
+                        <a className="waves-effect waves-light blue accent-2 btn-small">learn more</a>
+                    </Link> <Link to="/projects" className="nav-text black-text"><a className="waves-effect waves-light blue accent-2 btn-small">view projects</a></Link>
                     </p>
                 </div>
                 <div className="col l6 m6 s12" id="image-div">
