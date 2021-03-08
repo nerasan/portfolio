@@ -7,7 +7,7 @@ const About = () => {
             <div className="row">
                 <div className="col l6 m6 s12">
                     <h4>
-                        hi there!
+                        let's get connected!
                     </h4>
                     <div className="about-text">
                         When I am not touching code, you can find me playing my favorite video games or exploring new coffee shops. These passions can be seen in some of my projects such as Marshal Crossing and Smatch.

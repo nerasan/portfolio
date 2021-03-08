@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 // import axios from 'axios'
 
 // components
@@ -20,11 +21,16 @@ const Home = () => {
                     <p>
                         with an innate desire to learn and discover new ways to solve problems. Through my experience as a consultant, I honed my skills to focus on key details and delivery high quality products. My client-facing role has allowed me to understand the bigger picture and ask the right questions to achieve efficient solutions.
                     </p>
-                    {/* <Link to="/about" className="nav-text black-text"> */}
-                        <a href="/about" className="waves-effect waves-light blue accent-2 btn-small">let's collaborate!</a>
-                        {/* </Link> */}
-                    {/* <a class="waves-effect waves-light btn-small blue accent-2">projects</a> */}
-
+                    <p>
+                    <Link to="/about" className="nav-text black-text">
+                        <a className="waves-effect waves-light blue accent-2 btn-small">let's collaborate!</a>
+                    </Link>
+                    </p>
+                    <p>
+                        <Link to="/projects" className="nav-text black-text">
+                            <a className="waves-effect waves-light blue accent-2 btn-small">passion projects</a>
+                        </Link>
+                    </p>
                 </div>
                 <div className="col l6 m6 s12" id="image-div">
                     <img src="https://cdn.discordapp.com/attachments/698271256666963968/809213508063199272/salima-landing-illustration-v2.png" className="landing-illustration" alt="homepage" />
