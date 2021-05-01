@@ -7,6 +7,33 @@ const Projects = () => {
             <div className="container center-align">
 
                 <h3>passion projects</h3>
+
+                <div className="row">
+                    <div className="col s12 m4 l2"></div>
+                    <div className="col s12 m4 l8">
+                        <div className="card z-depth-0">
+                            <div className="card-image">
+                                <img src="https://raw.githubusercontent.com/nerasan/brew-good-frontend/main/public/brew-good-landing.png" alt="brew good" />
+                            </div>
+                            <div className="card-content">
+                                <h4>brew good</h4>
+                                <div className="card-paragraph">
+                                    A website that allows users to search for cafes based on their location while also learning more about Brew Good's featured philanthropic coffee shop. The site uses JavaScript, React, Chakra UI, and Yelp's API for the coffee shop search function.
+                                    
+                                    <div>(In progress: Linking backend so users can create an account, login, and add cafes to a favorites list.)</div>
+                                </div>
+                                {/* <div class="card-paragraph">
+                                    <span class="label-bold">Languages used:</span> HTML, CSS, JavaScript
+                                </div> */}
+                            </div>
+                            <div className="card-action">
+                                <a href="https://brewgood.netlify.app/" target="_blank" rel="noreferrer noopener">demo</a>
+                                <a href="https://github.com/nerasan/brew-good-frontend" target="_blank" rel="noreferrer noopener">code</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col s12 m4 l2"></div>
+                </div>
                 
                 <div className="row">
                     <div className="col s12 m4 l2"></div>
