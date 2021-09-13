@@ -22,14 +22,14 @@ code {
 #image-div {
   padding: 0;
 }
-/* 
+
 @media screen and (min-width: 414px) {
   .landing-illustration {
-       width: 70%;
-       display:block;
-       margin:0 auto;
+       width: 300px;
+       /* display:block;
+       margin:0 auto; */
   }
-} */
+}
 
 .landing-illustration, .aboutme-illustration {
   width: 500px;
