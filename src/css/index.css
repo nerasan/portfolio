@@ -21,6 +21,9 @@ code {
 
 #image-div {
   padding: 0;
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
 }
 
 .landing-illustration, .aboutme-illustration {
