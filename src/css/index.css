@@ -23,7 +23,7 @@ code {
   padding: 0;
 }
 
-@media all and (max-width: 300px) {
+@media screen and (min-width: 480px) {
   .landing-illustration {
        width: 70%;
        display:block;
