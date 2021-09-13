@@ -19,20 +19,30 @@ code {
     monospace;
 }
 
-#image-div {
-  padding: 0;
+#image-div, #image2-div {
+  padding: 50px 0;
 }
 
 @media screen and (min-width: 414px) {
-  .landing-illustration {
-       width: 300px;
+  .landing-illustration, .aboutme-illustration {
+       height: auto;
+       width: 100%;
+       object-fit: contain;
        /* display:block;
        margin:0 auto; */
   }
 }
 
+/* @media screen and (max-width: 1000px) {
+  .landing-illustration {
+       height: auto;
+       width: 500px;
+       object-fit: contain;
+  }
+} */
+
 .landing-illustration, .aboutme-illustration {
-  width: 500px;
+  width: 100%;
 }
 
 #landing-text {

@@ -24,7 +24,7 @@ const About = () => {
                     <a href="https://drive.google.com/file/d/1Lxcga0Z1TeB7ki1LYpp9V023PjHu1ymT/view" className="waves-effect waves-light blue accent-2 btn-small" target="_blank" rel="noreferrer noopener">resume</a>
 
                 </div>
-                <div className="col l6 m6 s12">
+                <div className="col l6 m6 s12" id="image2-div">
                     <img src="https://i.imgur.com/wtHHsNq.png" className="aboutme-illustration" alt="aboutme" />
                 </div>
             </div>
