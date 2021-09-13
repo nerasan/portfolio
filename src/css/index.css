@@ -24,6 +24,12 @@ code {
 }
 
 @media screen and (min-width: 414px) {
+  #image-div {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 414px) {
   .landing-illustration {
        width: 70%;
        display:block;
