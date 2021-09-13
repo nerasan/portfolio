@@ -28,7 +28,7 @@ code {
 
 @media screen and (max-width: 375px) {
   #image-div {
-       width: 100%;
+       width: 375px;
        display:block;
        margin:0 auto;
   }
