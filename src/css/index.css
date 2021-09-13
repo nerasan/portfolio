@@ -27,7 +27,7 @@ code {
 }
 
 @media all and (max-width: 300px) {
-  #image-div {
+  .landing-illustration {
        width: 70%;
        display:block;
        margin:0 auto;
