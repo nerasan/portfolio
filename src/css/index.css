@@ -26,6 +26,14 @@ code {
   height: auto ;
 }
 
+@media screen and (max-width: 375px) {
+  #image-div {
+       width: 100%;
+       display:block;
+       margin:0 auto;
+  }
+}
+
 .landing-illustration, .aboutme-illustration {
   width: 500px;
 }
