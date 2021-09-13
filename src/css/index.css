@@ -26,7 +26,7 @@ code {
   height: auto ;
 }
 
-@media screen and (max-width: 480px) {
+@media all and (max-width: 300px) {
   #image-div {
        width: 70%;
        display:block;
