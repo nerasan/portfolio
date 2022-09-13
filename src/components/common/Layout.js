@@ -7,7 +7,7 @@ const Layout = (props) => {
             <nav className="z-depth-0">
                 <div className="nav-wrapper indigo lighten-5 z-depth-0">
                     <ul id="nav-mobile" className="left">
-                    <li><Link to="/" className="nav-main-text black-text">salima harun</Link></li>
+                    <li><Link to="/" className="nav-main-text black-text"><h5>salima harun</h5></Link></li>
                     </ul>
                 <ul id="nav-mobile" className="right">
                     <li><Link to="/about" className="nav-text black-text">about</Link></li>
