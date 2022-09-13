@@ -23,7 +23,7 @@ const Home = () => {
                         hello there!
                     </h4>
                     <p>
-                        I am a software engineer with an innate desire to learn and discover new ways to solve problems. Through my experience as a consultant, I honed my skills to focus on key details and delivery high quality products. My client-facing role has allowed me to understand the bigger picture and ask the right questions to achieve efficient solutions.
+                        I am a software developer with an innate desire to learn and discover new ways to solve problems. Through my experience as a consultant, I honed my skills to focus on key details and delivery high quality products. My client-facing role has allowed me to understand the bigger picture and ask the right questions to achieve efficient solutions.
                     </p>
                     <p>
                     <Link to="/about" className="nav-text black-text">
