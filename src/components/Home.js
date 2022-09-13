@@ -14,7 +14,7 @@ const Home = () => {
         // <div>
             <div className="container">
                 <div className="page-illustration" id="image-div">
-                    <img src="https://cdn.discordapp.com/attachments/698271256666963968/809213508063199272/salima-landing-illustration-v2.png" className="landing-illustration" alt="homepage" />
+                    <img src="https://cdn.discordapp.com/attachments/698271256666963968/1019343268238078062/salima-landing-illustration-v3.png" className="landing-illustration" alt="homepage" />
                     {/* <img src="https://media-exp1.licdn.com/dms/image/C4E03AQG9aF9LKUdolg/profile-displayphoto-shrink_800_800/0/1603992612316?e=1617235200&v=beta&t=ntKu5tArGCuJPAhyPL63o1T0gkdYusZQIyfAZd25lgU" class="portfolio-photo"/> */}
                 </div>
                 {/* <div className="row"> */}
@@ -27,8 +27,8 @@ const Home = () => {
                     </p>
                     <p>
                     <Link to="/about" className="nav-text black-text">
-                        <a className="waves-effect waves-light blue accent-2 btn-small">learn more</a>
-                    </Link> <Link to="/projects" className="nav-text black-text"><a className="waves-effect waves-light blue accent-2 btn-small">view projects</a></Link>
+                        <a className="waves-effect waves-light amber accent-3 btn-small">learn more</a>
+                    </Link> <Link to="/projects" className="nav-text black-text"><a className="waves-effect waves-light amber accent-3 btn-small">view projects</a></Link>
                     </p>
                 </div>
             {/* </div> */}

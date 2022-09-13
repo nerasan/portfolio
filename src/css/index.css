@@ -27,8 +27,12 @@ code {
   display: block;
 }
 
-#image-div, #image2-div {
+#image-div {
   padding: 50px 0;
+}
+
+#image2-div {
+  padding: 25px 0;
 }
 
 @media screen and (min-width: 414px) {
@@ -74,6 +78,7 @@ h2, h3, h4, h5 {
 
 a {
   color: #000;
+  font-style: italic; 
 }
 
 .about-link {
