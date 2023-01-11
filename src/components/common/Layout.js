@@ -30,7 +30,7 @@ const Layout = (props) => {
                             <img src="https://www.shareicon.net/data/2016/07/08/116977_address-book_512x512.png" alt="linkedin icon" className="footer-icon" />
                         </a>
                         <div>
-                            © 2022 salima harun
+                            © 2023 salima harun
                         </div>
                      </div>
                 </div>
