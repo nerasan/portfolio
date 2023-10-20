@@ -12,7 +12,7 @@ const Layout = (props) => {
                 <ul id="nav-mobile" className="right">
                     <li><Link to="/about" className="nav-text black-text">about</Link></li>
                     <li><Link to="/projects" className="nav-text black-text">projects</Link></li>
-                    <li><a href="https://drive.google.com/file/d/1NlZTogS5xu_pOETXTLqrYQK-NnlUPw97/view" className="nav-text black-text" target="_blank" rel="noreferrer noopener">resume</a></li>
+                    <li><a href="https://drive.google.com/file/d/1Ef_fghma5LpWXq9v7V3es1aXAdRbbly0/view" className="nav-text black-text" target="_blank" rel="noreferrer noopener">resume</a></li>
                 </ul>
                 </div>
             </nav>
