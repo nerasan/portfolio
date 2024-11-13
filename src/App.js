@@ -1,17 +1,14 @@
 import React from "react";
-// React Router
-import { Route } from "react-router-dom"
-// Components imports
+
+import { Route } from "react-router-dom";
+
 import Home from "./components/Home";
 import About from "./components/About";
 import Resume from "./components/Resume";
-import Projects from "./components/Projects"
-// import resumePDF from "/Users/salimaharun/Desktop/SEIFX818/portfolio-salima/src/salima-harun-resume.pdf"
+import Projects from "./components/Projects";
 
-// Common imports
-import Layout from "./components/common/Layout"
+import Layout from "./components/common/Layout";
 
-// CSS imports 
 import "./css/App.css";
 
 const App = () => {
